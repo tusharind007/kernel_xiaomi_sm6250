@@ -2,7 +2,7 @@
 
 export PATH="$HOME/proton/bin:$PATH"
 SECONDS=0
-ZIPNAME="Perf+-miatoll-$(date '+%Y%m%d').zip"
+ZIPNAME="Pure_Perf-miatoll-$(date '+%Y%m%d').zip"
 
 if ! [ -d "$HOME/proton" ]; then
 echo "Proton clang not found! Cloning..."
